@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tesis V1.0</string>
+    <string name="lblarea">Area:</string>
+    <string name="lbltecnica">Tecnica:</string>
+    <string name="btniniciar">Aceptar</string>
+    <string name="numero_de_repeticiones">Numero de repeticiones</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="numrep">numrep</string>
+</resources>
